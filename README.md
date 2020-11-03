@@ -1,0 +1,2 @@
+# jray
+repository untuk pemula
